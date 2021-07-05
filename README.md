@@ -10,9 +10,3 @@
 * 📫 How to reach me: bdreece@mtu.edu
 * 😄 Pronouns: He/Him/His
 * ⚡ Fun fact: I am an avid rock climber and hiker
-<!--
-**bdreece/bdreece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
