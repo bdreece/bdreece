@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently working on: MicroPython projects, lightweight HALs, command line utilities
 * 🌱 I’m currently learning: Rust, React.js, Kotlin, RISC-V ASM
-* 💬 Ask me about: Instrumentation, Embedded Linux, AI/ML
+* 💬 Ask me about: Personal projects, coursework
 * 📫 How to reach me: bdreece@mtu.edu
 * 😄 Pronouns: He/Him/His
 * ⚡ Fun fact: I am an avid rock climber and hiker
