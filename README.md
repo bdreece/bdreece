@@ -7,7 +7,7 @@
  
  [bdreece.github.io/](https://bdreece.github.io/)
 
-* 🔭 I’m currently working on: [libstructs](https://github.com/bdreece/libstructs), [tinybroker](https://github.com/bdreece/tinybroker)
+* 🔭 I’m currently working on: [piper](https://github.com/bdreece/piper), [cargo-todoo](https://github.com/bdreece/cargo-todoo), [tattle](https://github.com/bdreece/tattle)
 * 🌱 I’m currently learning: Rust, Golang, GPGPU programming
 * 💬 Ask me about: Personal projects, coursework
 * 📫 How to reach me: bdreece@mtu.edu
