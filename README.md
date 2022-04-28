@@ -7,7 +7,7 @@
  
  [bdreece.github.io/](https://bdreece.github.io/)
 
-* 🔭 I’m currently working on: [piper](https://github.com/bdreece/piper), [cargo-todoo](https://github.com/bdreece/cargo-todoo), [tattle](https://github.com/bdreece/tattle)
+* 🔭 I’m currently working on: [piper](https://github.com/bdreece/piper), [cargo-todoo](https://github.com/bdreece/cargo-todoo), [gollections](https://github.com/bdreece/gollections)
 * 🌱 I’m currently learning: Rust, Golang, GPGPU programming
 * 💬 Ask me about: Personal projects, coursework
 * 📫 How to reach me: bdreece@mtu.edu
