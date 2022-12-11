@@ -5,11 +5,11 @@
  Engineering, and minoring in Communication Studies. I am passionate for efficient
  systems programming and embedded software development.
  
- [bdreece.github.io/](https://bdreece.github.io/)
+ [bdreece.dev](https://www.bdreece.dev/)
 
-* 🔭 I’m currently working on: [piper](https://github.com/bdreece/piper), [cargo-todoo](https://github.com/bdreece/cargo-todoo), [gollections](https://github.com/bdreece/gollections)
-* 🌱 I’m currently learning: Rust, Golang, GPGPU programming
+* 🔭 I’m currently working on: [gamby](https://github.com/bdreece/gamby), [locker](https://github.com/bdreece/locker)
+* 🌱 I’m currently learning: GraphQL, Cloud Infrastructure, Frontend Development
 * 💬 Ask me about: Personal projects
-* 📫 How to reach me: bdreece@mtu.edu
+* 📫 How to reach me: bdreece12@gmail.com
 * 😄 Pronouns: He/Him/His
 * ⚡ Fun fact: I am an avid rock climber and hiker
