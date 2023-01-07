@@ -7,7 +7,7 @@
  
  [bdreece.dev](https://www.bdreece.dev/)
 
-* 🔭 I’m currently working on: [gamby](https://github.com/bdreece/gamby), [locker](https://github.com/bdreece/locker)
+* 🔭 I’m currently working on: [gamby](https://github.com/bdreece/gamby), [locker](https://github.com/bdreece/locker), [hopper](https://github.com/bdreece/hopper)
 * 🌱 I’m currently learning: GraphQL, Cloud Infrastructure, Frontend Development
 * 💬 Ask me about: Personal projects
 * 📫 How to reach me: bdreece12@gmail.com
