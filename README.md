@@ -7,9 +7,13 @@
  
  [bdreece.dev](https://www.bdreece.dev/)
 
-* 🔭 I’m currently working on: [gamby](https://github.com/bdreece/gamby), [locker](https://github.com/bdreece/locker), [hopper](https://github.com/bdreece/hopper)
-* 🌱 I’m currently learning: GraphQL, Cloud Infrastructure, Frontend Development
-* 💬 Ask me about: Personal projects
-* 📫 How to reach me: bdreece12@gmail.com
+* 🔭 I’m currently working on: [gamby], [locker], [palette]
+* 🌱 I’m currently learning: GraphQL, gRPC, OIDC, Elastisearch
+* 💬 Ask me about: Passion projects
+* 📫 How to reach me: me@bdreece.dev
 * 😄 Pronouns: He/Him/His
 * ⚡ Fun fact: I am an avid rock climber and hiker
+
+[gamby]: https://github.com/bdreece/gamby
+[locker]: https://github.com/bdreece/locker
+[palette]: https://github.com/bdreece/hopper
