@@ -7,7 +7,7 @@
  
  [bdreece.dev](https://www.bdreece.dev/)
 
-* 🔭 I’m currently working on: [gamby], [locker], [palette]
+* 🔭 I’m currently working on: [gamby], [foop]
 * 🌱 I’m currently learning: GraphQL, gRPC, OIDC, Elastisearch
 * 💬 Ask me about: Passion projects
 * 📫 How to reach me: me@bdreece.dev
@@ -15,5 +15,4 @@
 * ⚡ Fun fact: I am an avid rock climber and hiker
 
 [gamby]: https://github.com/bdreece/gamby
-[locker]: https://github.com/bdreece/locker
-[palette]: https://github.com/bdreece/hopper
+[foop]: https://github.com/bdreece/foop
